@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Three.js
 - 💞️ I’m looking to collaborate on a three.js web app
 - 📫 How to reach me: 
-  > LinkIn: yu-hsuan-lin-4034b1157
+  > LinkIn: [yu-hsuan-lin-4034b1157](https://www.linkedin.com/in/yu-hsuan-lin-4034b1157/)
   > 
   > YouTube: https://www.youtube.com/channel/UCQmeN-GyyVBQst34Pa2tnwg
   > 
