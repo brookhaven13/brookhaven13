@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brookhaven13
 - 👀 I’m interested in 3D Molding(using blender), video games, and web tech.
-- 🌱 I’m currently learning React and Three.js
+- 🌱 I’m currently learning React and Next.js
 - 📫 How to reach me: 
   > LinkIn: [yu-hsuan-lin-4034b1157](https://www.linkedin.com/in/yu-hsuan-lin-4034b1157/)
   > 
