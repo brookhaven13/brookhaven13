@@ -6,7 +6,7 @@
   > 
   > YouTube: https://www.youtube.com/channel/UCQmeN-GyyVBQst34Pa2tnwg
   > 
-  > Gmail: yu.h.lin1991@gmail.com
+  > Email: harleylin0612@outlook.com
 
 <!---
 brookhaven13/brookhaven13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
