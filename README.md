@@ -43,15 +43,7 @@ Improving my full-stack workflow and DevOps fundamentals along the way
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brookhaven13&theme=react-dark)
 
-![Harley's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brookhaven13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brookhaven13&layout=compact&theme=radical)
-
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=brookhaven13&theme=radical&date_format=%5BY%20%5DM%20j)
 
