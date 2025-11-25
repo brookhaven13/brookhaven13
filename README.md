@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Golang to create my own backend services
 - 📫 How to reach me: 
   > 
-  > YouTube: https://www.youtube.com/channel/UCQmeN-GyyVBQst34Pa2tnwg
+  > [Personal Website](https://harleylin.netlify.app/)
   > 
   > Email: brookhaven.dev@gmail.com
 
